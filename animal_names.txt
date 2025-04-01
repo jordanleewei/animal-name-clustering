@@ -1,0 +1,574 @@
+Dog
+Cat
+Bird
+Penguin
+Eagle
+Cockatoo
+Camel
+Giraffe
+Zebra
+Lion
+Puma
+Panther
+Jaguar
+Cheetah
+Tiger
+Wolf
+Fox
+Polar bear
+Brown bear
+Panda bear
+Koala bear
+Kangeroo
+wombat
+quokka
+Ants
+Bees
+Elephant
+Anteater
+Beaver
+Platypus
+Ostrich
+Swallow
+Sparrow
+Crow
+Dogs
+Cats
+Monkeys
+Walruses
+Whales
+Sharks
+Fishes
+Alligators
+Zebras
+Lions
+Giraffes
+Wolfs
+Rabbit
+Fish
+Goat
+Donkey
+Rhinoceros
+Horse
+Hen
+Iguana
+Lizard
+Leopard
+Sea Urchin
+Dolphin
+Whale
+Manatee
+orangutan
+seal
+turtle
+tortoise
+kangaroo
+snake
+chimpanzee
+hamster
+gerbil
+rabbits
+hamsters
+crocodile
+hippopotamus
+tigers
+snakes
+birds
+leopards
+bears
+pandas
+dinosaurs
+chihuahua
+pitbull
+golden retrievers
+mouse
+cow
+cockroach
+monkey
+chicken
+duck
+butterfly
+pig
+deer
+spider
+mosquito
+hyena
+alligator
+Ox
+Cockroaches
+Worms
+Centipedes
+millipedes
+Beetles
+Butterflies
+Moths
+Kangaroos
+hawks
+robins
+koala
+polar bears
+peacock
+flamingo
+cod
+salmon
+grouper
+anglerfish
+shark
+killer whale
+great white shark
+Bear
+Frog
+Clownfish
+Dory
+Chimpanzees
+Gorilla
+Starfish
+Rockfish
+pufferfish
+panda
+sheep
+stingray
+catepillar
+millipede
+cricket
+grasshopper
+moth
+Guinea pig
+Pigs
+Cows
+Ant
+Eagles
+Otter
+Parrot
+Hawk
+Rat
+aardvark
+boar
+civet
+falcon
+greyhound
+yak
+seals
+bat
+squirrel
+snail
+toad
+worm
+housefly
+emu
+racoon
+honey badger
+dinosaur
+grizzly bear
+insects
+ladybug
+alpaca
+parrots
+Bee
+Insect
+Beetle
+budgie
+Reptile
+Kingfisher
+Owl
+monitor lizard
+goldfish
+otters
+wild boar
+hornets
+Fireflies
+Snails
+Scorpion
+Camels
+Humans
+Tuna
+Salamander
+Chameleon
+porcupine
+kangeroos
+sea lion
+penguins
+rats
+horses
+Hippo
+Lizards
+rooster
+wolves
+flying squirrels
+racoons
+giant turtles
+crocodiles
+terrapin
+bats
+octopus
+slugs
+clams
+finch
+koi
+prawn
+lobster
+guppy fish
+mole
+black bear
+donkeys
+wasps
+termites
+beavers
+pigeon
+goats
+Swan
+Crab
+Akbash
+Capybara
+Baboon
+Caterpillar
+Ladybird
+Sun bear
+Moon bear
+Pirana
+Catfish
+Pigeons
+Goose
+Dolphins
+gecko
+pika
+chinchilla
+wallaby
+axolotl
+narwhal
+dingo
+Turkey
+elephants
+beagles
+anteaters
+dugongs
+guinea pigs
+Ploar bear
+Blue whale
+Giant river otters
+Small otter
+Woodpecker
+Tasmanian devil
+Cassowary
+Snow leopard
+Badger
+Swordfish
+Narwhals
+Belugas
+Humpback whales
+Sperm whale
+Giant squid
+Blue-ringed octopus
+Box jellyfish
+Sea slug
+Flatworm
+armadillo
+sea cucumbers
+crabs
+prawns
+lobsters
+mussels
+mice
+geese
+moose
+hedgehog
+moles
+Hippotamus
+Seagull
+Lamb
+Dophin
+crows
+blue jays
+macaws
+sunbear
+Chipmunk
+Hammerhead shark
+Dragon fish
+red panda
+squid
+jellyfish
+terrapins
+spiders
+mosquitoes
+fruit flies
+tortoises
+dragonfly
+ducks
+crayfish
+Scallops
+Hippos
+Rhinoceres
+Gorillas
+Baboons
+dragon
+Komodo dragon
+hare
+seahorse
+llama
+deers
+white tiger
+meerkat
+pony
+hummingbird
+liger
+squirrels
+turtles
+Orca
+Tiger shark
+Raven
+Shrimp
+Krill
+Bluewhale
+Beluga whale
+Walrus
+Apes
+kiwi
+reindeer
+gineau pigs
+sea lions
+orangutans
+antelope
+rhino
+mule
+chickens
+Ape
+Vulture
+Coyote
+Centipede
+Caterpilla
+Wasp
+rhinocerous
+human
+Bull
+Hornbill
+Chinchillas
+Sloths
+Flamingos
+Jabiru
+roach
+buffalo
+Stick insect
+Unicorn
+Cobra
+chicks
+cheetahs
+porpupines
+quokkas
+guppy
+trinoceros
+T-rex
+abalone
+chick
+calf
+komodo dragons
+ligers
+hippopotomas
+sparrows
+angler fish
+mynah birds
+Clown fish
+boars
+panthers
+mealworm
+earthworm
+python
+anaconda
+Hippoptamus
+Wildcat
+Sheeps
+fly
+Wildboar
+Goost
+Koi fish
+Stonefish
+Frogfish
+Prairie dog
+cougar
+hyenas
+Pangolin
+Hump back whale
+Whale shark
+Seagulls
+croc
+anteter
+crcodile
+trout
+Quail
+bunny
+Porpoise
+Kitten
+scorpions
+foxes
+tapirs
+Slug
+crane
+lemur
+mongoose
+Clam
+rabits
+guniea pigs
+Oysters
+Bulls
+Meerkats
+Honey badgers
+Codfish
+Sea Cucumber
+Seasnail
+eels
+swans
+hummingbirds
+myna
+mockingbird
+cuckoobirds
+crcocodiles
+Frogs
+rhinos
+raccoon
+wild dog
+sloth
+dugong
+pike
+Cobras
+tapir
+gorrilla
+chipannzee
+rhinosaurus
+skunk
+aligator
+tortise
+drop bear
+hares
+lady bugs
+Hippopotamu
+Newt
+Chinpanzee
+Budgerigar
+gazelle
+polar
+hyenna
+giraff
+bull whale
+naked mole rat
+vole
+dodo bird
+chincilla
+sunfish
+pelican
+Kaola
+Sea anemone
+White pomfret
+Sardines
+echidna
+jaguars
+Sealion
+Rrocodile
+Flies
+vulcan
+maggot
+kite
+gibbon
+Stringray
+Komono dragon
+Lama
+Mountain goat
+Minks
+doves
+porcupines
+mara
+Golden retreiver
+Vultures
+Tarantulas
+Kiwis
+Koalas
+Stingrays
+Toads
+seahorses
+Crocs
+Wombats
+Coyotes
+Armadillos
+Hedgehogs
+cuttlefish
+flying fox
+egret
+albatross
+orang utan
+snowleopard
+Weasel
+Beluga
+Stork
+anteears
+jackals
+mynas
+arctic fox
+mole rat
+Playtpus
+Carp
+golden retriever
+corgi
+japanese spitz
+persian cat
+ginger tabby cat
+cocker spaniel
+hound dog
+dobermann
+chow chow
+red pandas
+raccoons
+brown bears
+monitor lizards
+Dove
+eel
+pengins
+wilderbeast
+bettle
+Chincillas
+Hens
+Plankton
+robin
+hornet
+zebra fish
+arowana
+owls
+mosquitos
+houseflies
+cheetas
+snow leopards
+gorrillas
+piranha
+Termite
+Milipede
+Mynah
+Golden Retriver
+Sardine
+lionfish
+ostritch
+viper
+flammingo
+tigress
+baracuda
+sea anemane
+mantis
+barnacle
+hermit crab
+horseshoe crab
+flounder
+parrot fish
+needle fish
+crocodile fish
+sea star
+Ponies
+meercat
+russion blue cat
+parakeet
+bobcat
+Catepillars
+Snapper
+Cannary
+aarddvark
+TARANTULA
+SABERTOOTH TIGER
+Mammals
+Sabertooth
+ANGELFISH
+BOXFISH
